@@ -10,15 +10,16 @@ A simple system to monitor temperature, humidity, and wind speed, and automatica
 - **WindSpeedAlert**: Alerts when wind speed shows an increasing trend.
 - **HumidityAlert**: Alerts when humidity exceeds a random threshold.
 - **Dynamic parts**: New parts can be added or removed during simulation.
-
-## How to Run
-
-```bash
-python main.py
-
 ## Tech Stack & Quality
 
 - **Python:** 3
 - **Linting:** ruff
 - **Typing:** mypy
 - **Testing:** pytest
+
+
+## How to Run
+
+```bash
+python main.py
+
