@@ -1,0 +1,22 @@
+# IDE
+.idea/
+
+# Python caches
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+
+# System files
+__MACOSX/
+.DS_Store
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Environment files
+.env
